@@ -5,11 +5,14 @@
 
 
 .pattern{
-    width: 1200px;
     height: 180px;
     background-image: url(../img/pattern.png);
     background-color: #4EA0FF;
-    
+}
+
+#logo{
+    width: 100px;
+    height: 50px;
 }
 
 .indice{
